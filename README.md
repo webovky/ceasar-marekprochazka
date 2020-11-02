@@ -2,7 +2,7 @@
 
 [![Join the chat at Gitter.im/spseol/Python](https://badges.gitter.im/spseol/PRG-No.svg)](https://gitter.im/spseol/Python?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-V přiloženém souboru najdete text zašifrovaný
+V [přiloženém souboru](sifra.txt) najdete text zašifrovaný
 [Caesarovu šifrou](https://cs.wikipedia.org/wiki/Caesarova_%C5%A1ifra). 
 Vašim úkolem je prostě a jednoduše ji dešifrovat.
 Že nevíte jak? Nevadí. Dám vám malou radu: Začněte tím, že vytvoříte program,
