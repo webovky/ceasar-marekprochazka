@@ -10,6 +10,8 @@ který bude šifrovat. Potom z něj snadno vytvoříte program dešifrovací.
 No a když si trošku pohrajete a uděláte několik pokusů, jistě se vám pomocí
 počítače podaří najít ten správný dešifrovací klíč.
 
+Až najdete ten správný klíč, tak dešifrovaný text uložte opět do souboru.
+
 Ještě vám prozradím, že text je psaný česky, bez diakritiky a mezer.
 
 
